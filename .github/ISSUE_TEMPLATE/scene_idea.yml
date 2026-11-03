@@ -1,0 +1,24 @@
+name: Scene idea
+description: Something you'd love to see Clawd do while Claude works.
+labels: [scene idea]
+body:
+  - type: input
+    id: scene
+    attributes:
+      label: The scene
+      placeholder: Astronaut, barista, surfing...
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What's he doing?
+      description: What happens while Claude works, and how does it end when Claude's done?
+      placeholder: He pulls espresso shots and stacks cups. When Claude finishes, he does latte art of a heart.
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Anything else
+      description: Should it follow a kind of work (like reading, editing or running tests)? Any reference images?

@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Send feedback privately
+    url: https://getclawd.dev
+    about: Use "Send feedback" on the website (or in Clawd's menu) for anything you'd rather not post publicly.
