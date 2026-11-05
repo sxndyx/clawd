@@ -2,6 +2,10 @@
 
 Every version of Clawd, newest first. Clawd updates himself, so you're probably on the latest already.
 
+## 0.9.1 · 2026-11-05
+
+The Painter has 18 paintings now, on canvases of every size. He climbs a ladder for American Gothic and the Mona Lisa, and walks the length of a mural for The Last Supper.
+
 ## 0.9 · 2026-10-26
 
 Tucked away, Clawd's tab always shows on the screen you're looking at, even over full-screen apps and after plugging in a display.
@@ -73,3 +77,4 @@ Automatic updates.
 ## 0.1
 
 21 scenes, speech bubble, confetti, progress line, focus timer, usage limits, daily stats.
+
